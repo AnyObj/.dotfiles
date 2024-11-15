@@ -17,19 +17,3 @@ alias luamake=/home/pollo/workspace/sumneko/3rd/luamake/luamake
 
 source ${ZDOTDIR:-~}/.antidote/antidote.zsh
 antidote load
-source ${ZDOTDIR:-~}/.antidote/antidote.zsh
-antidote load
-source ${ZDOTDIR:-~}/.antidote/antidote.zsh
-antidote load
-source ${ZDOTDIR:-~}/.antidote/antidote.zsh
-antidote load
-source ${ZDOTDIR:-~}/.antidote/antidote.zsh
-antidote load
-source ${ZDOTDIR:-~}/.antidote/antidote.zsh
-antidote load
-source ${ZDOTDIR:-~}/.antidote/antidote.zsh
-antidote load
-source ${ZDOTDIR:-~}/.antidote/antidote.zsh
-antidote load
-source ${ZDOTDIR:-~}/.antidote/antidote.zsh
-antidote load
