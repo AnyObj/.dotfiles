@@ -18,5 +18,6 @@ alias luamake=/home/pollo/workspace/sumneko/3rd/luamake/luamake
 source ${ZDOTDIR:-~}/.antidote/antidote.zsh
 antidote load
 
-PATH="${PATH}:/home/andrea/.fzf/bin/"
+PATH="${PATH}:/usr/local/fzf/bin/"
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+eval "$(fzf --zsh)"
